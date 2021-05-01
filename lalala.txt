@@ -4,4 +4,7 @@ Nghi khoe
 Something wrong
 KALOL
 lolasdas
+<<<<<<< HEAD
 
+=======
+>>>>>>> asl
